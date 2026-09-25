@@ -1,19 +1,19 @@
-# @babel/helper-compilation-targets
+# @babel/helper-plugin-utils
 
-> Helper functions on Babel compilation targets
+> General utilities for plugins to use
 
-See our website [@babel/helper-compilation-targets](https://babeljs.io/docs/babel-helper-compilation-targets) for more information.
+See our website [@babel/helper-plugin-utils](https://babeljs.io/docs/babel-helper-plugin-utils) for more information.
 
 ## Install
 
 Using npm:
 
 ```sh
-npm install --save @babel/helper-compilation-targets
+npm install --save @babel/helper-plugin-utils
 ```
 
 or using yarn:
 
 ```sh
-yarn add @babel/helper-compilation-targets
+yarn add @babel/helper-plugin-utils
 ```
